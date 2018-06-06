@@ -20,6 +20,7 @@ public class TesteGIT {
         System.out.println("Teste GIT2");
         System.out.println("Teste GIT3");
         System.out.println("Teste GIT4");
+        System.out.println("Teste GIT5");
         System.out.println("Teste GIT6");
     }
     
