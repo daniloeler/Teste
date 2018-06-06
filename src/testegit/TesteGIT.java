@@ -22,6 +22,7 @@ public class TesteGIT {
         System.out.println("Teste GIT4");
         System.out.println("Teste GIT5");
         System.out.println("Teste GIT6");
+        System.out.println("Teste GIT8");
     }
     
 }
